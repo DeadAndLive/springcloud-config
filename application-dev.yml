@@ -1,2 +1,2 @@
 config:
-  info: "DeadAndLive/springcloud-config/master/application-dev.yml version=3.0"
+  info: "DeadAndLive/springcloud-config/master/application-dev.yml version=4.0 bus"
